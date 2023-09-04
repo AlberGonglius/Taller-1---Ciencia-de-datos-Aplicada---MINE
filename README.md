@@ -10,3 +10,6 @@ Ver el release Taller 1 Jupyter Notebook, Aquí se encuentra un análisis detall
 
 ### Presentación: 
 Recomendación a inversionistas.pptx. En esta presentación se pueden encontrar los resultados de las análisis exploratorio de datos consolidado en forma de recomendaciones a los inversionistas de airbnb's en Washington.
+
+### Presentación - actualizado: 
+Recomendación a inversionistas- actualizado.pptx. A la versión anterior le hacia falta el slide de los precios.
